@@ -3,7 +3,7 @@
         
             {
               "name": "Meet 1",
-              "img": "https://raw.githubusercontent.com/Gsjwhrbf/marketplace1/main/img/1840v26f55eec.png",
+              "img": "https://raw.githubuserscontent.com/Gsjwhrbf/marketplace1/main/img/1840v26f55eec.png",
               "price": "10.99",
               "description": "Delicious meet with special seasoning.",
               "author_id": "1",
@@ -11,7 +11,7 @@
             },
             {
               "name": "Meet 2",
-              "img": "https://raw.githubusercontent.com/Gsjwhrbf/marketplace1/main/img/svinkoreyka.jpg",
+              "img": "https://raw.githubuserscontent.com/Gsjwhrbf/marketplace1/main/img/svinkoreyka.jpg",
               "price": "15.99",
               "description": "Tender meet from grass-fed cows.",
               "author_id": "3",
@@ -19,7 +19,7 @@
             },
             {
               "name": "Meet 3",
-              "img": "https://raw.githubusercontent.com/Gsjwhrbf/marketplace1/main/img/T-STD-21134_21134_facing.webp",
+              "img": "https://raw.githubuserscontent.com/Gsjwhrbf/marketplace1/main/img/T-STD-21134_21134_facing.webp",
               "price": "12.99",
               "description": "Premium meet for special occasions.",
               "author_id": "2",
@@ -27,7 +27,7 @@
             },
             {
               "name": "Meet 4",
-              "img": "https://raw.githubusercontent.com/Gsjwhrbf/marketplace1/main/img/upload.version_1.0.717cb7a13d22d17198da29afc04adb0e.350x350.jpeg",
+              "img": "https://raw.githubuserscontent.com/Gsjwhrbf/marketplace1/main/img/upload.version_1.0.717cb7a13d22d17198da29afc04adb0e.350x350.jpeg",
               "price": "9.99",
               "description": "Affordable meet for everyday cooking.",
               "author_id": "3",
@@ -35,7 +35,7 @@
             },
             {
               "name": "Meet 5",
-              "img": "https://raw.githubusercontent.com/Gsjwhrbf/marketplace1/main/img/Без названия.jpg",
+              "img": "https://raw.githubuserscontent.com/Gsjwhrbf/marketplace1/main/img/Без названия.jpg",
               "price": "14.99",
               "description": "Juicy meet for grilling.",
               "author_id": "3",
@@ -47,21 +47,21 @@
         
             {
               "name": "John",
-              "img": "https://raw.githubusercontent.com/Gsjwhrbf/marketplace1/main/img/face1.jpg",
+              "img": "https://raw.githubuserscontent.com/Gsjwhrbf/marketplace1/main/img/face1.jpg",
               "Surname": "Doe",
               "balance": "5000",
               "id": "1"
             },
             {
               "name": "Jane",
-              "img": "https://raw.githubusercontent.com/Gsjwhrbf/marketplace1/main/img/face2.jpg",
+              "img": "https://raw.githubuserscontent.com/Gsjwhrbf/marketplace1/main/img/face2.jpg",
               "Surname": "Smith",
               "balance": "7500",
               "id": "2"
             },
             {
               "name": "Mike",
-              "img": "https://raw.githubusercontent.com/Gsjwhrbf/marketplace1/main/img/face3.jpg",
+              "img": "https://raw.githubuserscontent.com/Gsjwhrbf/marketplace1/main/img/face3.jpg",
               "Surname": "Johnson",
               "balance": "3000",
               "id": "3"
